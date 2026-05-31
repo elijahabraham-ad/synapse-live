@@ -1,0 +1,23 @@
+# Adova Synapse
+
+> Atlanta-based Fractional AI Officer for mid-market companies ($5M-$50M revenue). Embedded AI leadership on a monthly retainer.
+
+Adova Synapse runs your AI stack as your outsourced AI department. We embed into mid-market teams to audit tools, kill what's wasting money, and build the systems worth building. Monthly retainer model, not project work.
+
+## Pages
+
+- [Home](/): Fractional AI Officer for Atlanta mid-market companies.
+- [About](/about): Team, mission, and founder Eli Abraham.
+- [Assessment](/assessment): $1,500 AI Opportunity Assessment — paid 1-week diagnostic with prioritized opportunities and dollar estimates.
+- [Services](/services): Assessment, three Fractional AI Officer retainer tiers ($5K/$8K/$12K monthly), and project-based AI System Builds.
+- [Enterprises](/enterprises): Fractional AI Officer retainer pricing for $5M-$50M+ companies.
+- [Contact](/contact): Book a free strategy call.
+
+
+## Blog
+
+- [Insights](/blog): Field notes on AI marketing, lead management, and automation.
+- [Why AI Automation Is the Best Hedge Against Rising Costs in 2026](/blog/ai-automation-hedge-against-rising-costs-2026)
+- [5 Ways AI Automation Helps Atlanta Local Businesses Stop Losing Leads](/blog/5-ways-ai-automation-atlanta-stop-losing-leads)
+- [Your Marketing Agency Is Generating Leads. AI Automation Is What Converts Them.](/blog/marketing-agency-leads-ai-automation-converts)
+- [How AI Recovers Lost Leads for Atlanta Service Businesses](/blog/ai-recovers-lost-leads-atlanta-service-businesses)
